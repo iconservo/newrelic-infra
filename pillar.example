@@ -1,0 +1,12 @@
+newrelic:
+  config:
+    base:
+      license_key: '123123ljk123l1kj231l2kj3'
+      display_name: Test
+      proxy: None
+      verbose: 0
+      log_file: /tmp/debug_log
+    custom_attributes:
+      environment: test_env
+      service: test_service
+      team: test_team
